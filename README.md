@@ -1,6 +1,6 @@
-# Find it live https://modern-music-website.netlify.app/
-
 ![Screen Shot 2022-03-13 at 6 43 16 AM](https://user-images.githubusercontent.com/88326256/158062597-5f0eb46e-69a6-4001-91a2-c1814c6664a5.png)
+
+# Find it live https://modern-music-website.netlify.app/
 
 ## Getting Started with Create React App
 
